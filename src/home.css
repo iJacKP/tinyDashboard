@@ -2,10 +2,14 @@ body {
     background-color: #EEEEEE;
 }
 
-.title {
-    font-family: 'Fredoka', sans-serif;
-    font-family: 'Roboto', sans-serif;
+.titleDashboard {
+    margin: 1rem;
+    font-family: 'Fredoka', sans-serif ;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.container {
+    width: 100% !important;
 }
