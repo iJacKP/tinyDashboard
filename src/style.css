@@ -3,13 +3,9 @@ body {
 }
 
 .titleDashboard {
-    margin: 1rem;
-    font-family: 'Fredoka', sans-serif ;
+    font-family: 'Staatliches', cursive;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.container {
-    width: 100% !important;
+    margin: 4rem;
 }
